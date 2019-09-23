@@ -11,12 +11,17 @@
     "react-native",
     "paypal",
     "payment",
+    "transaction",
     "credit-card",
     "debit-card",
     "paypal-wrapper",
     "paypal-checkout",
+    "react-native-paypal",
+    "react-native-paypal-wrapper",
+    "react-native-paypal-gateway",
     "checkout",
-    "gateway"
+    "gateway",
+    "react-native-payment"
   ],
   "author": "Anwar Gul <anwar.dev0x@gmail.com>",
   "license": "MIT",
