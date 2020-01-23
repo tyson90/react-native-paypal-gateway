@@ -1,11 +1,11 @@
 {
   "name": "react-native-paypal-gateway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native PayPal Checkout, A React Native Wrapper for iOS and Android to make online payments using Paypal checkout and credit/debit card payments.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anwar-gul/react-native-paypal-gateway.git"
+    "url": "https://github.com/tyson90/react-native-paypal-gateway.git"
   },
   "keywords": [
     "react-native",
