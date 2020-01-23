@@ -27,6 +27,7 @@ react-native link react-native-paypal-gateway
 ```
 
 ## Extra steps for iOS 🙄 [see here](https://github.com/paypal/PayPal-ios-SDK#with-or-without-cocoapods)
+But in project with CocoaPods just see [this comment](https://github.com/joltup/rn-fetch-blob/issues/461#issuecomment-553355501)
 
 ## Usage
 
